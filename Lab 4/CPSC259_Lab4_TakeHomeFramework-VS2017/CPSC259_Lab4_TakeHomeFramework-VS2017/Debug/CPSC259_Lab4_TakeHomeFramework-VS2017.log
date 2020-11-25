@@ -1,0 +1,6 @@
+﻿  mazesolver.c
+c:\users\myles\documents\karmen\cpsc 259\lab 4\cpsc259_lab4_takehomeframework-vs2017\cpsc259_lab4_takehomeframework-vs2017\mazesolver.c(276): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+c:\users\myles\documents\karmen\cpsc 259\lab 4\cpsc259_lab4_takehomeframework-vs2017\cpsc259_lab4_takehomeframework-vs2017\mazesolver.c(333): warning C4047: '=': 'int' differs in levels of indirection from 'char *'
+c:\users\myles\documents\karmen\cpsc 259\lab 4\cpsc259_lab4_takehomeframework-vs2017\cpsc259_lab4_takehomeframework-vs2017\mazesolver.c(337): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+c:\users\myles\documents\karmen\cpsc 259\lab 4\cpsc259_lab4_takehomeframework-vs2017\cpsc259_lab4_takehomeframework-vs2017\mazesolver.c(326): warning C4047: 'initializing': 'int' differs in levels of indirection from 'char *'
+  CPSC259_Lab4_TakeHomeFramework-VS2017.vcxproj -> C:\Users\Myles\Documents\Karmen\CPSC 259\Lab 4\CPSC259_Lab4_TakeHomeFramework-VS2017\Debug\CPSC259_Lab4_TakeHomeFramework-VS2017.exe

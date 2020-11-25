@@ -1,0 +1,4 @@
+﻿  linkedlist.c
+c:\users\myles\documents\karmen\cpsc 259\lab 3\cpsc259_lab3_framework-vs2017\cpsc259_lab3_framework-vs2017\cpsc259_lab3_framework-vs2017\linkedlist.c(316): warning C4715: 'retrieve_nth': not all control paths return a value
+c:\users\myles\documents\karmen\cpsc 259\lab 3\cpsc259_lab3_framework-vs2017\cpsc259_lab3_framework-vs2017\cpsc259_lab3_framework-vs2017\linkedlist.c(358): warning C4715: 'insert_nth': not all control paths return a value
+  CPSC259_Lab3_Framework-VS2017.vcxproj -> C:\Users\Myles\Documents\Karmen\CPSC 259\Lab 3\CPSC259_Lab3_Framework-VS2017\CPSC259_Lab3_Framework-VS2017\Debug\CPSC259_Lab3_Framework-VS2017.exe

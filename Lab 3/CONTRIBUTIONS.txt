@@ -1,0 +1,12 @@
+CONTRIBUTIONS
+
+LAB 3 contributions (Start Date: Friday, Finish Date: Monday, Both partners worked on this lab in person)
+
+Lab 7 was done on Partner 1's laptop
+
+
+Partner 1:
+	Retyped and updated statemachine module, datapath module, lab_7_top module as well as contributed in logic
+
+Partner 2: 
+	Typed Assisted with logic and debugging
